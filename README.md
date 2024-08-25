@@ -13,3 +13,6 @@ https://github.com/gajjarpankit/togaf9examprep/blob/main/TOGAF9prep/TOGAF%209%20
 
 ### Courses:
 https://www.iss.nus.edu.sg/executive-education/course/detail/enterprise-architecture-practitioner-course-(sf)/digital-strategy-leadership
+
+### Rediit
+https://www.reddit.com/r/EnterpriseArchitect/comments/noj9ie/togaf_9_part_1_and_part_2_exam_experience/
