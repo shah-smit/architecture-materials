@@ -16,3 +16,5 @@ https://www.iss.nus.edu.sg/executive-education/course/detail/enterprise-architec
 
 ### Rediit
 https://www.reddit.com/r/EnterpriseArchitect/comments/noj9ie/togaf_9_part_1_and_part_2_exam_experience/
+
+https://luminousmen.com/post/spark-tips-caching
